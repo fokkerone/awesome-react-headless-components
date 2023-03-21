@@ -12,6 +12,7 @@ Awesome list of React headless components! PRs are welcome.
 
 - [React Albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards)
 - [Dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
+- [Rehookify](https://www.rehookify.com/) - Hooks for date + time pickers
 - [Downshift](https://github.com/paypal/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [HeadlessUI](https://github.com/tailwindlabs/headlessui) – Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS
 - [RadixUI](https://github.com/radix-ui/primitives) – A low-level UI component library with a focus on accessibility, customization and developer experience
